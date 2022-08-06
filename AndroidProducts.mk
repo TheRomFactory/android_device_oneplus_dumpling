@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_dumpling.mk
+    $(LOCAL_DIR)/lineage_dumpling.mk
 
 COMMON_LUNCH_CHOICES := \
-    dot_dumpling-user \
-    dot_dumpling-userdebug \
-    dot_dumpling-eng
+    lineage_dumpling-user \
+    lineage_dumpling-userdebug \
+    lineage_dumpling-eng
