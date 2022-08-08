@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_dumpling.mk
+    $(LOCAL_DIR)/spark_dumpling.mk
 
 COMMON_LUNCH_CHOICES := \
-    dot_dumpling-user \
-    dot_dumpling-userdebug \
-    dot_dumpling-eng
+    spark_dumpling-user \
+    spark_dumpling-userdebug \
+    spark_dumpling-eng

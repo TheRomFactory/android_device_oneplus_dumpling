@@ -27,7 +27,7 @@ $(call inherit-product, vendor/oneplus/dumpling/dumpling-vendor.mk)
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-dot
+    $(LOCAL_PATH)/overlay-spark
 
 # Device uses high-density artwork where available
 PRODUCT_AAPT_CONFIG := normal
